@@ -1,0 +1,13 @@
+{
+  "name": "gemini-ai-chat",
+  "version": "1.0.0",
+  "description": "Web AI Chat dung tren Dien thoai va May tinh ket noi Google Gemini",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["ai", "gemini", "chat", "speech"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
